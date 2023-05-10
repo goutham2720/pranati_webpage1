@@ -1,0 +1,33 @@
+.navigationbar {
+  box-shadow: 0px 0px 10px 1px #c7c7c7;
+}
+.navigationbar-link {
+  margin-left: auto;
+}
+.about-title {
+ font-weight: bolder;
+ font-size: 24px;
+}
+.about-block {
+  display: flex;
+  margin-top: 3rem;
+}
+.about-image {
+  height: 20rem;
+  width: 30rem;
+ 
+}
+.about-content,.about-title {
+ 
+  margin-left: 1rem;
+  
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 1rem;
+  padding-right: 1rem;
+ 
+  
+}
+.about-content{
+  font-size: 18px;
+  font-weight: lighter;
+}

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pranati_webpage1/static/css/main.48ee10dd.css",
+    "main.js": "/pranati_webpage1/static/js/main.258a43aa.js",
+    "static/js/787.cd0bed36.chunk.js": "/pranati_webpage1/static/js/787.cd0bed36.chunk.js",
+    "index.html": "/pranati_webpage1/index.html",
+    "main.48ee10dd.css.map": "/pranati_webpage1/static/css/main.48ee10dd.css.map",
+    "main.258a43aa.js.map": "/pranati_webpage1/static/js/main.258a43aa.js.map",
+    "787.cd0bed36.chunk.js.map": "/pranati_webpage1/static/js/787.cd0bed36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48ee10dd.css",
+    "static/js/main.258a43aa.js"
+  ]
+}
